@@ -25,3 +25,5 @@
   - Turkish: https://github.com/HaydarOzturk
   - Russian: https://github.com/MrFallen
   - Spanish: max783
+  
+PokemonGO Bot Discord https://discordapp.com/channels/211285821565829130/211285821565829130
